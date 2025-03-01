@@ -1,4 +1,4 @@
-# Chatbot with Flask and DialoGPT
+# Simple Chatbot with Flask and DialoGPT
 
 This repository contains a simple chatbot web application built using **Flask**, **Transformers (DialoGPT)**, and **JavaScript**. The chatbot provides conversational responses using a pre-trained AI model.
 
